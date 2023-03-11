@@ -1,1 +1,1 @@
-// Sem nada por enquant
+// Sem nada por enquanto
